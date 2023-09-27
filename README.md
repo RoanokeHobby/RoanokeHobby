@@ -9,7 +9,7 @@ Welcome to my slightly less-chaotic GitHub :octocat: account. My [personal accou
 
 :space_invader: I really enjoy retro 8-bit games, especially on the [Arduboy](https://arduboy.com/) platform. Hope to some day actually write a cool game myself.
 
-📫 How to reach me: darrell at roanokehobby dot net will go it.
+📫 How to reach me: darrell at roanokehobby dot net will do it.
 
 <!--
 **RoanokeHobby/RoanokeHobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
